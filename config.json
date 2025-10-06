@@ -1,0 +1,14 @@
+{
+  "users": {
+    "user1": {
+      "api_id": 27134816,
+      "api_hash": "4264dcc6ec6a6dfb667fbf1714abfa49",
+      "phone": "+380636414057"
+    },
+    "user2": {
+      "api_id": "27944292",
+      "api_hash": "8f1238d3dd986a32665eec0c65cdf2ce",
+      "phone": "+380993441343"
+    }
+  }
+}
